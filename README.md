@@ -14,6 +14,7 @@
   ```
   
 <div id="contatos">
+  <br>
   <h3> Como me contactar? </h3>
   <img src="https://img.shields.io/badge/caubiloureiro@id.uff.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   <a href='https://www.linkedin.com/in/caubi-de-souza-loureiro-rosa-7556b41b5/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class = "mt-3"> </a>
